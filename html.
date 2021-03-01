@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<HTML>
+  <HEAD>
+    <MET CHARSET="UTF-8">
+         <TITLE>Eerste HTML-Oefening </TITLE>
+</HEAD>
+<BODY>
+<H1>===============PAGINA===============</H1>
+<SECTION>
+<H2>Atlantische Oceaankunst.</H2>
+<ARTICLE>
+ <H2>Compings.</H2>
+ <P>
+ OP deze pagina worden 1 section en 1 article gebruikt.Daarbinnen wordt alle tekst gezet.
+ <BR>
+ Als ik de BR-tag intik, wordt er op een nieuwe regel begonnen.
+ <BR>
+ Als ik een lege regel wil hebben,tik ik 2 keer de BR-tag in.
+ <BR><BR>
+ Hierboven staat dus een lege regel.
+   </P>
+ </ARTICLE>
+ </SECTION>
+ </BODY>
+</HTML>
